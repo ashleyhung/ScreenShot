@@ -1,0 +1,3 @@
+On Linux, install scrot first.
+Command:
+$sudo apt-get install scrot
